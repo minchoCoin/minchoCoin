@@ -31,6 +31,9 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     
+### Other
+- TOPCIT : 448 / 1000
+- PCCP - Python3 : LV3(681)
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchoCoin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
