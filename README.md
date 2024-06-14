@@ -18,17 +18,21 @@ Here are some ideas to get you started:
 
 ### My Resume
 <a href="https://minchocoin.github.io/resume/">
-<img alt="Static Badge" src="https://img.shields.io/badge/RESUME-gray?logo=readme&logoColor=white">
+<img alt="resume" src="https://img.shields.io/badge/RESUME-gray?logo=readme&logoColor=white">
 </a>
 
 ### My Blog
  <a href="https://minchocoin.github.io/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/BLOG-beige?logo=github&logoColor=black">
+        <img alt="blog" src="https://img.shields.io/badge/BLOG-beige?logo=github&logoColor=black">
     </a>
 
 ### Contact
 <a href="mailto:taehun5508@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img alt="gmail" src="https://img.shields.io/badge/-taehun5508@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a>
+    <br>
+<a href="mailto:bigteach0508@pusan.ac.kr">
+        <img alt="PNU mail" src="https://img.shields.io/badge/-bigteach0508@pusan.ac.kr-005baa?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
     
 ### Other
