@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     </a>
 
 ### Education
-Pusan National University, Busan, South korea &emsp; 2019.03-2025.02(Expected graduation)
+Pusan National University, Busan, South korea
 - Major in Computer Science and Engineering
 - Current GPA: 4.18 / 4.5
-
+- 2019.03-2025.02(Expected graduation)
 
 
 ### Contact
