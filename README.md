@@ -16,15 +16,20 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminchoCoin&count_bg=%23159488&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### My Resume
+### My Resume and Blog
 <a href="https://minchocoin.github.io/resume/">
 <img alt="resume" src="https://img.shields.io/badge/RESUME-gray?logo=readme&logoColor=white">
 </a>
-
-### My Blog
  <a href="https://minchocoin.github.io/">
         <img alt="blog" src="https://img.shields.io/badge/BLOG-beige?logo=github&logoColor=black">
     </a>
+
+### Education
+Pusan National University, Busan, South korea &emsp; 2019.03-2025.02(Expected graduation)
+- Major in Computer Science and Engineering
+- Current GPA: 4.18 / 4.5
+
+
 
 ### Contact
 <a href="mailto:taehun5508@gmail.com">
