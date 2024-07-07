@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Education
 Pusan National University, Busan, South korea
 - Major in Computer Science and Engineering
-- Current GPA: 4.2 / 4.5
+- Current GPA: 4.21 / 4.5
 - 2019.03-2025.02(Expected graduation)
 
 
