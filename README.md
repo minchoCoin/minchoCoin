@@ -43,6 +43,7 @@ Pusan National University, Busan, South korea
 ### Other
 - TOPCIT : 448 / 1000
 - PCCP - Python3 : LV3(681)
+- TOEIC Speaking - 140(IH)
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchoCoin&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
