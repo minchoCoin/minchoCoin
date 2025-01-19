@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Education
 Pusan National University, Busan, South korea
 - Major in Computer Science and Engineering
-- GPA: 4.19 / 4.5
+- GPA: 4.2 / 4.5
 - Acquired Credit: 154 / 137
 - 2019.03-2025.02(Expected graduation)
 
