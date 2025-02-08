@@ -25,12 +25,11 @@ Here are some ideas to get you started:
     </a>
 
 ### Education
-Pusan National University, Busan, South korea
-- Major in Computer Science and Engineering
-- GPA: 4.2 / 4.5
-- Acquired Credit: 154 / 137
-- 2019.03-2025.02(Expected graduation)
-
+- B.S in computer science and engineering
+  - Pusan National University, Busan, South Korea
+  - GPA: 4.2 / 4.5
+  - Acquired Credit: 154 / 137
+  - 2019.03-2025.02(Expected graduation)
 
 ### Contact
 <a href="mailto:taehun5508@gmail.com">
