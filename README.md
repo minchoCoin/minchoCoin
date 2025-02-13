@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchoCoin&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minchoCoin&theme=vue-dark&langs_count=10&layout=compact&exclude_repo=minchoCoin.github.io,stt-service)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minchoCoin&theme=vue-dark&langs_count=10&layout=compact&exclude_repo=minchoCoin.github.io,stt-service,deep-learning-programming)](https://github.com/anuraghazra/github-readme-stats)
