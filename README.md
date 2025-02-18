@@ -16,12 +16,20 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FminchoCoin&count_bg=%23159488&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### My Resume and Blog
+### Resume
 <a href="https://minchocoin.github.io/resume/">
 <img alt="resume" src="https://img.shields.io/badge/RESUME-gray?logo=readme&logoColor=white">
 </a>
+
+### Social link
  <a href="https://minchocoin.github.io/">
         <img alt="blog" src="https://img.shields.io/badge/BLOG-beige?logo=github&logoColor=black">
+    </a> 
+    <a href="https://www.youtube.com/@taehunkim_coding">
+        <img alt="youtube" src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white">
+    </a>
+    <a href="https://m.blog.naver.com/0508taehun">
+        <img alt="youtube" src="https://img.shields.io/badge/Naver blog-green?logo=naver&logoColor=white">
     </a>
 
 ### Education
