@@ -37,7 +37,8 @@ Here are some ideas to get you started:
   - Pusan National University, Busan, South Korea
   - GPA: 4.2 / 4.5
   - Acquired Credit: 154 / 137
-  - 2019.03-2025.02(Expected graduation)
+  - 2019.03-2025.02
+  - summa cum laude
 
 ### Contact
 <a href="mailto:taehun5508@gmail.com">
