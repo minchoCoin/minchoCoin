@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### Education
 - M.S in Graduate School of AI
- - Pusan National University, Busan, South Korea
- - 2025.03 - current
+  - Pusan National University, Busan, South Korea
+  - 2025.03 - current
 
 - B.S in computer science and engineering
   - Pusan National University, Busan, South Korea
