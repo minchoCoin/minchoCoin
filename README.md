@@ -33,12 +33,16 @@ Here are some ideas to get you started:
     </a>
 
 ### Education
+- M.S in Graduate School of AI
+ - Pusan National University, Busan, South Korea
+ - 2025.03 - current
+
 - B.S in computer science and engineering
   - Pusan National University, Busan, South Korea
   - GPA: 4.2 / 4.5
   - Acquired Credit: 154 / 137
   - 2019.03-2025.02
-  - summa cum laude
+  - Summa Cum Laude
 
 ### Contact
 <a href="mailto:taehun5508@gmail.com">
