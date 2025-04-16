@@ -46,9 +46,9 @@ Here are some ideas to get you started:
     </a>
     
 ### Other
-- TOPCIT : 448 / 1000
-- PCCP - Python3 : LV3(681)
-- TOEIC Speaking - 140(IH)
+- TOPCIT : 448 / 1000, obtained in October 2023
+- PCCP - Python3 : LV3(681), obtained in December 2023
+- TOEIC Speaking - 140(IH), obtained in December 2024
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchoCoin&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
