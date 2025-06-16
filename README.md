@@ -46,7 +46,16 @@ Here are some ideas to get you started:
 <a href="mailto:bigteach0508@pusan.ac.kr">
         <img alt="PNU mail" src="https://img.shields.io/badge/-bigteach0508@pusan.ac.kr-005baa?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
-    
+
+
+### Competition
+| Date| Event|Team| Award/Result| Links|
+|------------|---------------------------------------------------------------------------------------------|----|------------------------------------------------------|-----------------------------------------|
+|2025.06| Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | Team.Loss가 왜 올라가지 | Top 7.2% ||
+|2024.12| (교내) IoT Maker Study Group | Team.코드코치 | 최우수상(부산대학교 공과대학장상) ||
+|2024.12| (교내대회) 노년 1인 가구 데이터 활용 돌봄 서비스 제안 부문 | Team.보듬 | 2등 ||
+|2024.08| 2024 제 1회 전국대학 소프트웨어 성과 공유 포럼 | Team.Personalix |기술상||
+|2023.08| 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 | Team.Fleta | Top 8.8% ||
 ### Other
 - TOPCIT : 448 / 1000, obtained in October 2023
 - PCCP - Python3 : LV3(681), obtained in December 2023
