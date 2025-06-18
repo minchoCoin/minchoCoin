@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Competition
 | Date| Event|Team| Award/Result| Links|
 |------------|---------------------------------------------------------------------------------------------|----|------------------------------------------------------|-----------------------------------------|
-|2025.06| Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | Team.Loss가 왜 올라가지 | Top 7.2% |[Link](https://dacon.io/competitions/official/236493/overview/description)|
+|2025.06| Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회(Fine-Grained Car Image Classification) | Team.Loss가 왜 올라가지 | Top 7.2% |[Link](https://dacon.io/competitions/official/236493/overview/description)|
 |2024.12| (교내) IoT Maker Study Group | Team.코드코치 | 최우수상(부산대학교 공과대학장상) ||
 |2024.12| (교내대회) 노년 1인 가구 데이터 활용 돌봄 서비스 제안 부문 | Team.보듬 | 2등 ||
 |2024.08| 2024 제 1회 전국대학 소프트웨어 성과 공유 포럼 | Team.Personalix |기술상||
