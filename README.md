@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.sh/github.com/minchoCoin.svg?view=today-total&logo=github)](https://hits.sh/github.com/minchoCoin/)
 
 ### CV and RESUME
-[![cv](https://img.shields.io/badge/CV-darkgreen?logo=readme&style=flat&logoColor=white)](https://github.com/minchoCoin/minchoCoin/blob/main/CV_taehunkim.pdf)
+[![cv](https://img.shields.io/badge/CV-darkgreen?logo=readme&style=flat&logoColor=white)](https://drive.google.com/file/d/1JYDOlHIi1sUihe_GqZPXk8bQAlrz8i6m/view?usp=drive_link)
 [![resume](https://img.shields.io/badge/RESUME-6d856d?logo=readme&style=flat&logoColor=white)](https://minchocoin.github.io/resume/)
 
 ### Social link
