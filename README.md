@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ### Competition
 | Date| Event|Team| Award/Result| Links|
 |------------|---------------------------------------------------------------------------------------------|----|------------------------------------------------------|-----------------------------------------|
+|2026.02| Quantum Infinity for You in PNU 2026| Group 4 | 3등 |[Link](https://github.com/minchoCoin/QI4U_team4)|
 |2025.08| 2025 Samsung Collegiate Programming Challenge : AI Challenge| 개인 | 본선 진출(22등) |[Link](https://dacon.io/competitions/official/236500/overview/description)|
 |2025.06| Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회(Fine-Grained Car Image Classification) | Team.Loss가 왜 올라가지 | Top 7.2% |[Link](https://dacon.io/competitions/official/236493/overview/description)|
 |2024.12| (교내) IoT Maker Study Group | Team.코드코치 | 최우수상(부산대학교 공과대학장상) ||
