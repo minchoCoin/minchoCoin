@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![youtube](http://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@taehunkim_coding)
 [![naver](http://img.shields.io/badge/Naver_blog-2DB400?style=flat&logo=naver&logoColor=white)](https://m.blog.naver.com/0508taehun)
 [![kaggle](http://img.shields.io/badge/Kaggle-skyblue?style=flat&logo=readme&logoColor=white)](https://www.kaggle.com/minchocoin)
-
+[![kaggle](http://img.shields.io/badge/STMCommunity-yellow?style=flat&logo=readme&logoColor=white)](https://community.st.com/t5/user/viewprofilepage/user-id/110183)
 ### Education
 - M.S in Graduate School of AI
   - Pusan National University, Busan, South Korea
